@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyVersion>1.0.1.20354</AssemblyVersion>
+    <FileVersion>1.0.1.20354</FileVersion>
+    <Authors>Matix Media</Authors>
+    <Company>Matix Media, Inc.</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A simple package to convert DateTime's and TimeSpan's to pretty time.</Description>
+    <Copyright>Copyright © 2020 Matix Media, Inc.</Copyright>
+  </PropertyGroup>
+
+</Project>
